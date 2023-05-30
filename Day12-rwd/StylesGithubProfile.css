@@ -1,0 +1,23 @@
+.smallCard{
+    width:140px;
+    height:100px;
+} 
+
+.lastRow{
+    height: 130px;
+    width: 600px;
+}
+
+.textBox{
+    width: 450px;
+}
+
+.row2Column1{
+    height: 400px;
+    width: 200px;
+}
+
+.r2Body{
+    margin-inline-start: 20px;
+
+}
